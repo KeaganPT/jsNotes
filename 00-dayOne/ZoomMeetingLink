@@ -1,0 +1,14 @@
+Use chat for any questions during lectures and lessons there are multiple instructors to read chat as well
+as answer.
+
+REMEMBER: extra practice is super recomended 
+lectures will be recorded. (access through google drive spreadsheet.)
+
+zoom room is the same link every meeting: https://zoom.us/my/dlgeiser?pwd=M2hpcFBQc05VWW8ybW4xMUdBVUMvZz09
+
+NAVIGATING TERMINAL:
+1. open windows powershell
+2. type in dir which stands for directory and hit enter.
+3. navigate to desktop directory by typing cd (change directory) followed by the name of where you are going
+(Desktop)
+4. create folder comand is mkdir (make directory) (creating one does not put you inside)

@@ -1,0 +1,35 @@
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: orange;
+}
+
+.purple  {
+    color: purple;
+}
+
+#red {
+    color: red;
+}
+.box {
+    background-color: green;
+    height:100px;
+    width:100px;
+    padding: 20px; /*padding increases the space within element */
+    margin: 50px; /*the margin creates space outside the element to seperate it from others */
+    border: 10px solid black;
+}
+
+.btn {
+    background-color: pink;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+#green {
+    background-color: green;
+    color: white;
+}

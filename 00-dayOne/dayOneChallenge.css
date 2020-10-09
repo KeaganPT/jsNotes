@@ -1,0 +1,45 @@
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+}
+
+p {
+    color:red;
+}
+
+.wrapper {
+    border: solid black;
+    border-width: 25px;
+    border-radius: 50px;
+    background-color: gray;
+}
+
+.truth {
+    border: 5px solid black ;
+    border-radius: 10px;
+    background: center;
+    text-align: center;
+    width: 30%;
+}
+
+#truth1 {
+    position: relative;
+    top: 25px;
+    left: 33%;
+}
+
+#truth2 {
+    position: relative;
+    top: -96px;
+    left: 1%
+}
+
+#lie {
+    position: relative;
+    top: -200px;
+    left: 66%;
+}
