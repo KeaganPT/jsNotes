@@ -75,7 +75,7 @@ function multiPrint(a,b,c){
 }
 
 function listPrint(wordList){
-//  for (word of wordList){
+//  for (word in wordList){
 //      console.log(wordList[word])
 //  }
     for (word of wordList){
